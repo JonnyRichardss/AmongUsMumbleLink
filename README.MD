@@ -1,6 +1,12 @@
 # Among Us MumbleLink
 A program that reads position data from among us to be fed into mumble's 'link' plugin for positional audio, intended to create a new gamemode.
 
+
+## THIS DOES NOT WORK!!!!
+This program hasn't worked since I originally made it, there are better alternatives that have since been released
+
+
+
 This program **ONLY** supports windows.
 
 
